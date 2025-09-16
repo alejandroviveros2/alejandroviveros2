@@ -65,31 +65,31 @@
 
 <h2 align="center">📂 Featured Projects</h2>
 
-<p align="center">
-  <a href="https://genius-front.vercel.app/">
-     <img src="https://img.shields.io/badge/GENIUS-0BA675?style=for-the-badge&logo=vercel&logoColor=white" alt="GENIUS"/>
-  </a>
-  <br>
-  <i>Plataforma de cursos en línea con un sistema de gestión completo para sus usuarios.</i>
-</p>
-
-<p align="center">
-  <a href="https://lawfeed-front.vercel.app/">
-     <img src="https://img.shields.io/badge/LAWFEED-16665d?style=for-the-badge&logo=vercel&logoColor=white" alt="LAWFEED"/>
-  </a>
-  <br>
-  <i>Plataforma que conecta clientes con bufetes especializados en el ámbito mercantil.</i>
-</p>
-
-<p align="center">
-  <a href="https://cosmos-web-nine.vercel.app/">
-     <img src="https://img.shields.io/badge/PORTAFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="PORTAFOLIO"/>
-  </a>
-  <br>
-  <i>Portafolio con proyectos universitarios.</i>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="300px">
+      <a href="https://genius-front.vercel.app/">  
+        <img src="https://img.shields.io/badge/GENIUS-0BA675?style=for-the-badge&logo=vercel&logoColor=white" alt="GENIUS"/>
+      </a>
+      <p><i>Online learning platform with a complete management system for its users.</i></p>
+    </td>
+    <td align="center" width="300px">
+      <a href="https://lawfeed-front.vercel.app/"> 
+        <img src="https://img.shields.io/badge/LAWFEED-16665d?style=for-the-badge&logo=vercel&logoColor=white" alt="LAWFEED"/>
+      </a>
+      <p><i>Platform that connects clients with law firms specialized in commercial law.</i></p>
+    </td>
+    <td align="center" width="300px">
+      <a href="https://cosmos-web-nine.vercel.app/"> 
+        <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="PORTFOLIO"/>
+      </a>
+      <p><i>Portfolio showcasing university projects and developments.</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 
 
@@ -119,6 +119,9 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DosDeCarnitas1.DosDeCarnitas1" alt="visitor badge"/>
 </p>
+
+
+
 
 
 
